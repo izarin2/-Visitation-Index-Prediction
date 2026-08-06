@@ -24,7 +24,7 @@ Most existing visitation estimation methods:
 ### Research Goals
 1. Develop a **Visitation Index** that measures both **frequency** and **intensity** of waterbody use.
 2. Implement a **hybrid anomaly detection** framework combining:
-   - **Machine learning** (Isolation Forest, Local Outlier Factor)
-   - **Rule-based logic**
-   - **Statistical z-score verification**
+   - **Machine learning** 
+   - **IQR Logics**
+   - **Anomaly Detection Techniques**
 
