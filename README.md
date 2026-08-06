@@ -1,4 +1,4 @@
-# AI-Driven Fisheries Monitoring: Visitation Index & Hybrid Anomaly Detection
+# AI-Driven Visitor Monitoring: Visitation Index & Hybrid Anomaly Detection
 
 This repository contains the code and datasets for my Ph.D. research on **automated visitation estimation** and **behavioral anomaly detection** for recreational fishing across Nebraska’s public lakes.  
 It integrates anonymized mobility data, fishing permit records, and geospatial lake boundaries into a **hybrid, interpretable machine learning framework** to support fisheries management and conservation.
