@@ -8,7 +8,7 @@ It integrates anonymized mobility data, fishing permit records, and geospatial l
 ## 📖 Research Overview
 
 ### Problem
-Traditional fisheries monitoring relies on **creel surveys**, **angler reports**, and **permit data**, which are:
+Traditional visitors monitoring relies on **creel surveys**, **angler reports**, and **permit data**, which are:
 - **Slow** – lagging months behind real-world changes.
 - **Incomplete** – lacking coverage for all locations/times.
 - **Static** – focusing only on total visitor counts without behavioral context.
